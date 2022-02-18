@@ -48,6 +48,6 @@ Kaiisea - Programmer B [README](https://github.com/kaiisea#im-currently-working-
 
 See also the Linkedin of
 
-[contributors] (https://www.linkedin.com/in/www.linkedin.com/in/antonio-cebri%C3%A1n-mesa)
+[contributors](https://www.linkedin.com/in/www.linkedin.com/in/antonio-cebri%C3%A1n-mesa)
 
 who participated in this project.
