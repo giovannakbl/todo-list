@@ -11,9 +11,9 @@ These instructions will give you a copy of the project up and running on your lo
 
 Requirements for the software and other tools to build, test and push 
 
-[Visual Studio Code] (https://code.visualstudio.com/)
+[Visual Studio Code](https://code.visualstudio.com/)
 
-[Git Hub] (https://github.com/)
+[Git Hub](https://github.com/)
 
 ## Installing
 
@@ -33,20 +33,18 @@ Add additional notes to deploy this on a live system
 
 ## Built with
 
-- [Contributor Covenant] (https://www.contributor-covenant.org/) - Used for the Code of Conduct
-- [Creative Commons] (https://creativecommons.org/) to choose the license
+- [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
+- [Creative Commons](https://creativecommons.org/) to choose the license
 
 ## Authors
 
-giovannakbl - Programmer A [README] (https://github.com/giovannakbl#hi-there-)
+giovannakbl - Programmer A [README](https://github.com/giovannakbl#hi-there-)
 
-[GitHub Profile] (https://github.com/giovannakbl)
+[GitHub Profile](https://github.com/giovannakbl)
 
-Kaiisea - Programmer B [README] (https://github.com/kaiisea#im-currently-working-in-improve-it-see-you-soon-/)
+Kaiisea - Programmer B [README](https://github.com/kaiisea#im-currently-working-in-improve-it-see-you-soon-/)
 
-giovannakbl#hi-there-
-
-[GitHub Profile] (https://github.com/Kaiisea)
+[GitHub Profile](https://github.com/Kaiisea)
 
 See also the Linkedin of
 
