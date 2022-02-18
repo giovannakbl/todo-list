@@ -11,9 +11,15 @@ These instructions will give you a copy of the project up and running on your lo
 
 Requirements for the software and other tools to build, test and push 
 
+<<<<<<< HEAD
 [Visual Studio Code] (https://code.visualstudio.com/)
 
 [Git Hub] (https://github.com/)
+=======
+<pre> [Visual Studio Code] (https://code.visualstudio.com/)
+
+<pre> [Git Hub] (https://github.com/)
+>>>>>>> 0c7014510db7b44a870d2581a201b08983b77a4b
 
 ## Installing
 
@@ -33,7 +39,7 @@ Add additional notes to deploy this on a live system
 
 ## Built with
 
-- [Contributor Covenant] (https://www.contributor-covenant.org/) - Used for the Codeof Conduct
+- [Contributor Covenant] (https://www.contributor-covenant.org/) - Used for the Code of Conduct
 - [Creative Commons] (https://creativecommons.org/) to choose the license
 
 ## Authors
