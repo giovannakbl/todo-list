@@ -11,6 +11,7 @@ These instructions will give you a copy of the project up and running on your lo
 
 Requirements for the software and other tools to build, test and push 
 
+<<<<<<< HEAD
 [Visual Studio Code] (https://code.visualstudio.com/)
 
 [Git Hub] (https://github.com/)
@@ -19,6 +20,22 @@ Requirements for the software and other tools to build, test and push
 
 A step by step series of examples that tell you how to get a development environment running
 
+=======
+<<<<<<< HEAD
+[Visual Studio Code] (https://code.visualstudio.com/)
+
+[Git Hub] (https://github.com/)
+=======
+<pre> [Visual Studio Code] (https://code.visualstudio.com/)
+
+<pre> [Git Hub] (https://github.com/)
+>>>>>>> 0c7014510db7b44a870d2581a201b08983b77a4b
+
+## Installing
+
+A step by step series of examples that tell you how to get a development environment running
+
+>>>>>>> 64525db50798a165596ebb83e34c026f4b340d73
 Say what the step will be
 `Give the example`
 
@@ -38,6 +55,7 @@ Add additional notes to deploy this on a live system
 
 ## Authors
 
+<<<<<<< HEAD
 giovannakbl - Programmer A [README] (https://github.com/giovannakbl#hi-there-)
 
 [GitHub Profile] (https://github.com/giovannakbl)
@@ -53,3 +71,18 @@ See also the Linkedin of
 [contributors] (https://www.linkedin.com/in/www.linkedin.com/in/antonio-cebri%C3%A1n-mesa)
 
 who participated in this project.
+=======
+**giovannakbl** - Programmer A [README] (https://github.com/giovannakbl#hi-there-)
+
+[GitHub Profile] (https://github.com/giovannakbl)
+
+**Kaiisea** - Programmer B [README] (https://github.com/kaiisea#im-currently-working-in-improve-it-see-you-soon-)
+
+[GitHub Profile] (https://github.com/kaiisea)
+
+See also the GitHub of
+
+[contributors] (https://github.com/Ch3ssMaster)
+
+who participated in this project
+>>>>>>> 64525db50798a165596ebb83e34c026f4b340d73
