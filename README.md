@@ -45,11 +45,11 @@ Add additional notes to deploy this on a live system
 
 ## Authors
 
-- giovannakbl - Programmer A [README](https://github.com/giovannakbl#hi-there-)
+- **giovannakbl** - Programmer A [README](https://github.com/giovannakbl#hi-there-)
 
     [GitHub Profile](https://github.com/giovannakbl)
 
-- Kaiisea - Programmer B [README](https://github.com/kaiisea#im-currently-working-in-improve-it-see-you-soon-/)
+- **Kaiisea** - Programmer B [README](https://github.com/kaiisea#im-currently-working-in-improve-it-see-you-soon-/)
 
     [GitHub Profile](https://github.com/Kaiisea)
 
